@@ -1,4 +1,4 @@
-# odsc_heart_disease_demo
+# ODSC heart disease demo
 
 Heart Disease Data Set: https://archive.ics.uci.edu/ml/datasets/Heart+Disease by
 
